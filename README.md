@@ -1,3 +1,11 @@
+# THIS DOES NOT WORK ANYMORE!
+
+This project is retired and no longer works as it originally did.
+
+You would have an easier time using a repack from diakov.net. The default language is Russian upon installation, but it's easy to change it back to English from the menu.
+
+Farewell.
+
 #   IDM Activator
 
 ###   Activation
